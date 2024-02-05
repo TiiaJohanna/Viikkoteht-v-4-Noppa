@@ -1,0 +1,21 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: black;
+    text-align: center;
+    color: white;
+}
+  
+.container {
+    margin-top: 50px;
+}
+  
+.dice {
+    font-size: 3em;
+    margin-top: 20px;
+    padding: 20px;
+    width: 100px;
+    height: 100px;
+    background-color: #ddd;
+    border-radius: 10px;
+    display: inline-block;
+}
